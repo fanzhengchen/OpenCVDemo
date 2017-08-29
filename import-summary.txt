@@ -15,9 +15,9 @@ Moved Files:
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => openCVSamplecameracalibration/src/main/AndroidManifest.xml
-* res/ => openCVSamplecameracalibration/src/main/res/
-* src/ => openCVSamplecameracalibration/src/main/java/
+* AndroidManifest.xml => openCVTutorial3CameraControl\src\main\AndroidManifest.xml
+* res\ => openCVTutorial3CameraControl\src\main\res\
+* src\ => openCVTutorial3CameraControl\src\main\java\
 
 Next Steps:
 -----------

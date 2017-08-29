@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/fanzhengchen/Desktop/OpenCVDemo/openCVSample15puzzle/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\OpenCVDemo\\openCVSample15puzzle\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 391
                 },
                 "from": {
-                    "file": "/Users/fanzhengchen/Desktop/OpenCVDemo/openCVSample15puzzle/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Administrator\\Desktop\\OpenCVDemo\\openCVSample15puzzle\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,
-                        "startOffset": 16,
+                        "startOffset": 17,
                         "endColumn": 50,
-                        "endOffset": 62
+                        "endOffset": 63
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 454
                 },
                 "from": {
-                    "file": "/Users/fanzhengchen/Desktop/OpenCVDemo/openCVSample15puzzle/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Administrator\\Desktop\\OpenCVDemo\\openCVSample15puzzle\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 143,
+                        "startOffset": 146,
                         "endColumn": 62,
-                        "endOffset": 201
+                        "endOffset": 204
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 530
                 },
                 "from": {
-                    "file": "/Users/fanzhengchen/Desktop/OpenCVDemo/openCVSample15puzzle/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\Administrator\\Desktop\\OpenCVDemo\\openCVSample15puzzle\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 67,
+                        "startOffset": 69,
                         "endColumn": 75,
-                        "endOffset": 138
+                        "endOffset": 140
                     }
                 }
             }
