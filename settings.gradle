@@ -1,0 +1,4 @@
+include ':app'
+include ':openCVLibrary330'
+include ':openCVSample15puzzle'
+include ':openCVSamplecameracalibration'
